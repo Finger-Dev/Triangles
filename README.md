@@ -2,6 +2,8 @@
 
 O projeto Triangles.por é um exemplo de pseudocódigo escrito em Portugol Studio. 
 
+Apenas usando as medidas laterais, identifica se é um triângulo, se for identifica o tipo e calcula a área.
+
 O objetivo é demonstrar a lógica básica de programação usando uma linguagem simples e acessível.
 
 # Requisitos
